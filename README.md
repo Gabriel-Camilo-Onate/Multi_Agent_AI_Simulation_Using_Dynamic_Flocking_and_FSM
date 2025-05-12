@@ -42,10 +42,10 @@ The user can command the captain of any team to move to a specific location, and
 
 * "V" Key: Spawn a vertical wall at the mouse pointer's position. Press the "V" Key again while pointing at it to remove it.
 
-# Future Improvements
+## Future Improvements
 
 * Visual improvements and UI implementation.
 
-  ## License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
